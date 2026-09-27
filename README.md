@@ -54,7 +54,7 @@ Menyusun "Data Diri", "Keahlian", dan "Target Belajar" menggunakan kombinasi Uno
 ### 7. Penggabungan Seluruh Elemen
 Tampilan keseluruhan halaman web (`index.html`) setelah seluruh tag dasar HTML digabungkan dan dijalankan pada web browser.
 
-*(Silakan tambahkan screenshot hasil akhir di sini jika ada)*
+![List gambar 9](/images/image-9.png)
 
 ### 8. Dokumentasi ke GitHub
 Membuat repositori baru di GitHub dengan nama **Web1Lab1** dan mengaktifkan inisialisasi file README.md untuk mengunggah laporan praktikum ini.
